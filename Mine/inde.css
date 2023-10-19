@@ -1,0 +1,26 @@
+.custom-font {
+    color: hsl(0, 93%, 68%);
+
+}
+
+.custom-text {
+    font-weight: bold;
+    font-size: 2rem;
+    display: block;
+}
+.logo{
+    height: auto;
+}
+@import url(https://fonts.google.com/specimen/Josefin+Sans);
+
+* {
+    font-family: 'Josefin Sans';
+    color: hsl(0, 36%, 70%);
+}
+h1{
+    font-weight: 10rem;
+}
+
+p {
+    color: black;
+}

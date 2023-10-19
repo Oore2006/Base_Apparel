@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "code club project",
+			"path": ".."
+		},
+		{
+			"name": "design",
+			"path": "../../Desktop/base-apparel-coming-soon-master/design"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "code club project"
+	}
+}
